@@ -1,6 +1,6 @@
 # C
  
-These languages are typically created for fun, educational purposes, or to challenge conventional programming practices. You can explore their respective websites or repositories for more information, documentation, and examples. Keep in mind that while these languages may not be practical for everyday programming tasks, they can be entertaining to learn and experiment with.
+These [languages](https://esolangs.org/wiki/Joke_language_list) are typically created for fun, educational purposes, or to challenge conventional programming practices. You can explore their respective websites or repositories for more information, documentation, and examples. Keep in mind that while these languages may not be practical for everyday programming tasks, they can be entertaining to learn and experiment with.
 
 [Brainfuck](https://esolangs.org/wiki/Brainfuck)  
 Brainfuck is one of the most well-known esoteric languages. It is minimalistic and designed for simplicity.
@@ -26,3 +26,11 @@ SPL is a programming language that uses Shakespearean language constructs. It's 
 
 [ArnoldC](https://github.com/lhartikk/ArnoldC)  
 ArnoldC is a programming language based on the one-liners of Arnold Schwarzenegger. It's designed for fun and humor.
+
+[HQ9+](https://esolangs.org/wiki/HQ9%2B)  
+HQ9+ is a joke language with four instructions:
+
+- H: Print "hello, world"
+- Q: Print the program's source code
+- 9: Print the lyrics to "99 Bottles of Beer"
+- +: Increment the accumulator
